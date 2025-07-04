@@ -2,6 +2,20 @@
 
 This repository contains the prototype source code for the paper: **"An Agentic AI Framework for Training General Practitioner Student Skills"**.
 
+------
+
+<p align="center">
+  <a href="#system-architecture">System Architecture</a> •
+  <a href="#repository-structure">Repository Structure</a> •
+  <a href="#getting-started">Getting Started</a> •
+  <a href="#disclaimer">Disclaimer</a> •
+  <a href="#license">License</a> •
+  <a href="#citation">Citation</a>
+
+</p>
+
+</div>
+
 <details>
 <summary><strong>Click to read the abstract</strong></summary>
 
