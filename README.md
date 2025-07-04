@@ -1,6 +1,6 @@
 # An Agentic AI Framework for Training General Practitioner Student Skills
 
-This repository contains the prototype source code for the paper: **"An Agentic AI Framework for Training General Practitioner Student Skills"**.
+This repository contains the source code, installation guidelines and documentation for the paper: **"An Agentic AI Framework for Training General Practitioner Student Skills"**.
 
 <p align="center">
   <a href="#system-architecture">System Architecture</a> •
