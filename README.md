@@ -73,13 +73,18 @@ Follow these instructions to set up and run the framework on your local machine.
     > **Note:** The TODO list includes moving these to environment variables. For now, direct configuration in `config.py` is required.
 
 4.  **Set up the RAG Medical Database**
+5.  
     a. Gather your Evidence-Based Medicine (EBM) sources into a single directory. The script supports `.md` files out of the box. To use other formats like PDF, you might need to modify the document loading logic in `central_backend_server/utils.py`.
+    
     b. Update the configuration variables inside `create_rag_storage.py` (e.g., Pinecone API key and index name, source directory).
+    
     c. Run the script to build your RAG index:
+    
     ```bash
     python create_rag_storage.py
     ```
-5.  **Configure Diseases and Patients**
+    
+7.  **Configure Diseases and Patients**
     a. Configure the available diseases and their corresponding EBM sources in `central_backend_server/conversion_tables.py`.
     b. (Optional) Modify the list of predefined patients in `central_backend_server/predefined_patients.py` and ensure they are also added to the UI in `client_dashboard/ui_utils.py`.
 
