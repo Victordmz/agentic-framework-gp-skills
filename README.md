@@ -2,8 +2,6 @@
 
 This repository contains the prototype source code for the paper: **"An Agentic AI Framework for Training General Practitioner Student Skills"**.
 
-------
-
 <p align="center">
   <a href="#system-architecture">System Architecture</a> •
   <a href="#repository-structure">Repository Structure</a> •
@@ -13,6 +11,8 @@ This repository contains the prototype source code for the paper: **"An Agentic 
   <a href="#citation">Citation</a>
 
 </p>
+
+------
 
 </div>
 
