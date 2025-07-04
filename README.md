@@ -85,7 +85,9 @@ Follow these instructions to set up and run the framework on your local machine.
     ```
     
 7.  **Configure Diseases and Patients**
+
     a. Configure the available diseases and their corresponding EBM sources in `central_backend_server/conversion_tables.py`.
+    
     b. (Optional) Modify the list of predefined patients in `central_backend_server/predefined_patients.py` and ensure they are also added to the UI in `client_dashboard/ui_utils.py`.
 
 ## Running the Application
