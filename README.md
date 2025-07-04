@@ -45,8 +45,8 @@ Follow these instructions to set up and run the framework on your local machine.
 
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/your-username/your-repository.git
-    cd your-repository
+    git clone https://github.com/Victordmz/agentic-framework-gp-skills.git
+    cd agentic-framework-gp-skills
     ```
 
 2.  **Install Python Dependencies**
