@@ -73,6 +73,7 @@ Follow these instructions to set up and run the framework on your local machine.
     > **Note:** The TODO list includes moving these to environment variables. For now, direct configuration in `config.py` is required.
 
 4.  **Set up the RAG Medical Database**
+
     a. Gather your Evidence-Based Medicine (EBM) sources into a single directory. The script supports `.md` files out of the box. To use other formats like PDF, you might need to modify the document loading logic in `central_backend_server/utils.py`.
     
     b. Update the configuration variables inside `create_rag_storage.py` (e.g., Pinecone API key and index name, source directory).
